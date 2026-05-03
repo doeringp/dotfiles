@@ -1,3 +1,3 @@
-# doeringp/dotfiles
+# Dotfiles
 
-My personal dotfiles repository for GitHub Codespaces.
+The repository is designed to quickly set up a personalized development environment in GitHub Codespaces with AI-assisted coding capabilities.
