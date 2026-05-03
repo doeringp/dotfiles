@@ -9,4 +9,5 @@ npm install -g opencode-ai
 
 # Symlink opencode config
 SCRIPT_DIR="$(dirname "$(realpath "$0")")"
+mkdir -p "$HOME/.config/opencode"
 ln -sf "$SCRIPT_DIR/config/opencode/opencode.json" "$HOME/.config/opencode/opencode.json"
