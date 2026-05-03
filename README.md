@@ -1,2 +1,3 @@
-# dotfiles
-Dotfiles repository for GitHub Codespaces
+# doeringp/dotfiles
+
+My personal dotfiles repository for GitHub Codespaces.
